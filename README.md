@@ -1,0 +1,2 @@
+# RAG_construction_using_local_LLM
+Ollamaを使ったフリーのRAG構築方法
