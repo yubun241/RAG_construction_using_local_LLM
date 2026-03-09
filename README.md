@@ -64,6 +64,7 @@ pip install langchain langchain-community chromadb ollama
 
  ## Ollamaを使ったRAG実装
  chatBot.py：ollamaで導入したモデルを動かすチャットボットプログラム
+ 
  read_pdf_chatbot.py:PDF等の資料を読み込んで実装するチャットボットプログラム
 
  
